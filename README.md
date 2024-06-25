@@ -7,8 +7,8 @@ This project calculates the homework submission status based on pull requests fr
 To get started, clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/yourusername/homework-submission-checker.git
-cd Pullcheck
+git clone https://github.com/shalayiding/pullcheck.git
+cd pullcheck
 pip install -r requirements.txt
 ```
 
