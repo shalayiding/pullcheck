@@ -1,0 +1,10 @@
+# VS Code settings
+.vscode/
+
+
+# Byte
+__pycache__/
+*.py[cod]
+*$py.class
+
+.env
